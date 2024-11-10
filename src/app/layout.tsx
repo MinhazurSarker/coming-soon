@@ -11,7 +11,7 @@ const inter = Inter({
 });
 const { description, title } = data;
 export const metadata = {
-  title: "MAT WORLD - " + title,
+  title: "Cellsweb - " + title,
   description: description,
 };
 
