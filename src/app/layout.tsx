@@ -11,7 +11,7 @@ const inter = Inter({
 });
 const { description, title } = data;
 export const metadata = {
-  title: "Cellsweb - " + title,
+  title: "Cellsweb IT Solutions Ltd - " + title,
   description: description,
 };
 
